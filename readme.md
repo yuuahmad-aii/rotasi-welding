@@ -40,3 +40,10 @@ ketika on pintu gerbang terbuka dan off pintu gerbang tertutup
 * update firmware untuk mengatasi semua itu dengan menaikkan nilai deboune dan menurunkan nilai travel
 * sudah disesuaikan dengan firmware
 * perlu update jenis lampu atau pada bagian atas lampu diberi sebuah payung tambahan penghadadng silalunya sinar matahari
+
+# update firmware 22 mei 2025
+tidak terasa sudah 1 tahun alat tersebut ada di warak.
+### masalah
+alat dihilangkan oleh orang yang ada di warak, sehingga harus membuat lagi dari awal
+### solusi 
+buat alat baru dari 0, oleh harry dengan mengacu pada dokumentasi ini.
